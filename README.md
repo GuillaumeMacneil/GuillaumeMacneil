@@ -1,5 +1,5 @@
-### Guillaume Macneil - Computer Science Master's Graduate From Durham University
+### Guillaume Macneil - Incoming Researcher in Microscopy Image Analysis at the Kavli Institute for Nanoscience Discovery
 
-- 📖 Research Interests: Applied CS, Bioinformatics, Computational Biology, Graph Theory, Artificial Intelligence
+- 📖 Research Interests: Computational Biology, Graph Theory, Single / Multi-objective Optimisation
 - 🔍 Current Focuses: Modelling the mechanics of ciliated tissues and efficiently finding cycles in street network graphs
 - 🗺️ Where To Find Me: [🏠 Homepage](https://www.gcmacneil.com) &mdash; [✉️ Email](mailto:guillaume@gcmacneil.com) &mdash; [Alt Account (less serious)](https://github.com/MetallicSquid)
