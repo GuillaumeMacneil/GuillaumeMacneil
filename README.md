@@ -1,4 +1,4 @@
-### Guillaume Macneil - Incoming Researcher in Microscopy Image Analysis at the Kavli Institute for Nanoscience Discovery
+### Guillaume Macneil - Researcher in Microscopy Image Analysis at the Kavli Institute for Nanoscience Discovery
 
 - 📖 Research Interests: Computational Biology, Graph Theory, Single / Multi-objective Optimisation
 - 🔍 Current Focuses: Modelling the mechanics of ciliated tissues and efficiently finding cycles in street network graphs
